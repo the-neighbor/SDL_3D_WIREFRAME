@@ -1,4 +1,4 @@
-NAME = fdf
+NAME = sdl_fdf
 
 SRCS = \
 		srcs/main.cpp		\
