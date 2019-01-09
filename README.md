@@ -15,10 +15,10 @@ to each row of points on the heightmap, and each number is interpreted as the co
 
 point's height.
 
-###Example:
+### Example:
 
 ![Input-Contents](https://i.imgur.com/V82pIMS.png)
 
-###Output:
+### Output:
 
 ![Screenshot](https://i.imgur.com/h1RchDz.jpg)
