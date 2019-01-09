@@ -1,7 +1,7 @@
 # SDL_3D_WIREFRAME
 SDL/C++ port of a 42 project used to render simple wireframe images of plain text heightmaps. Compiled and tested under GNU/Linux.
 
-Usage: ./sdl_fdf <filename>
+Usage: ./sdl_fdf *filename*
 
 ## HEIGHTMAPS
 
